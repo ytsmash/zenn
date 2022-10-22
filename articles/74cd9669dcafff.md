@@ -2,7 +2,7 @@
 title: "docker-compose.yamlはマージできる"
 emoji: "👋"
 type: "tech"
-topics: ["docker", "docker-coompose"]
+topics: ["docker", "docker-compose"]
 published: true
 ---
 # docker composeのデフォルトの挙動
